@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1556840966 source:c:\users\logan\documents\coding\molarmasscalculator\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<fstream>
+	<vector>
+	<sstream>
+	<algorithm>
+	<cstdlib>
+
+1557506946 source:c:\users\logan\documents\coding\c(++)\molarmasscalculator\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<sstream>
+	<algorithm>
+	<cstdlib>
+	"molarmasscalculator.h"
+
+1557506827 source:c:\users\logan\documents\coding\c(++)\molarmasscalculator\src\molarmasscalculator.cpp
+	"molarmasscalculator.h"
+
+1557506734 c:\users\logan\documents\coding\c(++)\molarmasscalculator\include\molarmasscalculator.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<sstream>
+	<algorithm>
+	<cstdlib>
+
